@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    width: 100%;
+}
+
+.btn-primary {
+    width: 100%;
+}
